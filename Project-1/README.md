@@ -63,26 +63,9 @@ The dataset was assessed for:
 
 ## Technologies Used
 
-* **Python** – Data cleaning and analysis
-* **Pandas** – Data manipulation and quality checks
-* **NumPy** – Numerical validation
-* **Jupyter Notebook** – Interactive analysis and documentation
-* **Git & GitHub** – Version control and project documentation
-
-## Project Structure
-
-```text
-Project_1_Data_Cleaning/
-│
-├── README.md
-├── data/
-│   └── cleaned_dataset.csv
-│
-└── notebooks/
-    └── data_cleaning.ipynb
-```
-
-## Project Status
-
-**Completed — Data Cleaning & Validation**
+Python – Data cleaning and analysis
+Pandas – Data manipulation and quality checks
+NumPy – Numerical validation
+Jupyter Notebook – Interactive analysis and documentation
+  
 
