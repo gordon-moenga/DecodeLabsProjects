@@ -8,7 +8,7 @@ The primary objective of this project was to assess the quality of the dataset, 
 
 ## Dataset Overview
 
-The dataset contains **1,200 records and 14 columns**:
+The dataset contains 1,200 records and 14 columns:
 
 * **OrderID** – Unique identifier for each order
 * **Date** – Order date
